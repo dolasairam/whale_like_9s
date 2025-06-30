@@ -1,6 +1,7 @@
 This is a TextAnalyzer file. 
- Output of the file is :-
- otal Words (excluding excluded words): 123488
+Output of the file is :-
+
+Total Words (excluding excluded words): 123488
 
 Top 5 Most Frequent Words:
 whale: 1146
